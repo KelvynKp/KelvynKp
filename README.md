@@ -22,11 +22,6 @@ My goal is to keep learning, build real projects, and continuously improve my sk
 
 
 
-<img src="https://raw.githubusercontent.com/KelvynKp/KelvynKp/output/snake.svg" alt="Snake animation" />
-
-###
-
-
 
 <img src="https://raw.githubusercontent.com/KelvynKp/KelvynKp/output/snake.svg" alt="Snake animation" />
 
